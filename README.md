@@ -1,2 +1,2 @@
 # CNNDeepLearning
-Build A Classification Model using Convolution Neural Network Model
+Build a classification model by adapting the Convolution Neural Network
